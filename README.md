@@ -58,3 +58,7 @@ This project is made with the help of:-
 
 ## Introduction ##
 
+```
+PROJECT IS ON A DELAY PLEASE HAVE PATIENCE
+```
+
