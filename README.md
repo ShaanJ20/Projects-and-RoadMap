@@ -16,7 +16,7 @@ This project is made with the help of:-
 - Shaan Johari (Owner of this Repo)
 
 ## CONTENTS ##
-- Introduction
+- [Introduction](https://github.com/ShaanJ20/Projects-and-RoadMap/wiki/Introduction)
 - Languages  and Concept Inculed
 ```
  Roadmaps
