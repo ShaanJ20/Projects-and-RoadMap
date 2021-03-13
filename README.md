@@ -15,3 +15,44 @@
 This project is made with the help of:-
 - Shaan Johari (Owner of this Repo)
 
+## CONTENTS ##
+- Introduction
+- Languages  and Concept Inculed
+```
+ Roadmaps
+
+ Roadmap for Software Engeneering
+ Roadmap for Web Dev
+ Roadmap for Java
+ Roadmap for JavaScript
+ Roadmap for Python
+ Roadmap for Advanced Python
+ Roadmap for Python GUI(Tkinter)
+ Roadmap for React
+ Roadmap for Django
+ Roadmap for DS and Algo
+```
+
+```
+Projects
+
+Projects For Html
+Projects For CSS
+Projects for JavaScript
+Projects for NodeJS
+Projects for MongoDB
+Projects for Python Flask
+Projects for React
+Projects for Django
+Projects for Python(actual)
+Projects of intermidiate Python
+Projects of Python GUI
+Projects related to DS and Algo
+```
+```
+BONUS Projects
+
+Make a Flappy Bird Game on a website
+Make a stocking website
+```
+
