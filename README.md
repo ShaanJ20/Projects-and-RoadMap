@@ -10,3 +10,8 @@
 - Want to add another source to a project or a concept that will be accepted
 
 ***Note*** -If you are trying to copy things from here and upload on your website or any app please mention this source
+
+## Authored People ##
+This project is made with the help of:-
+- Shaan Johari (Owner of this Repo)
+
