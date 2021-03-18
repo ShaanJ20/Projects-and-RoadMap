@@ -59,7 +59,7 @@ This project is made with the help of:-
 
 ## Introduction ##
 
-```
-PROJECT IS ON A DELAY PLEASE HAVE PATIENCE
-```
+Hey Programmers looking for a project of your desired language you are at the right place here you will get most of the best projects that there are over there they all are categorized into 3 levels **EASY** ; **Medium** ; **Hard** ; **Challenging**
+And if you are beginner thinking where to start from here you will also be getting roadmaps and sources of each topics that will be free of cost
+**ENJOY !!**
 
