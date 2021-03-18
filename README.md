@@ -22,7 +22,7 @@ This project is made with the help of:-
 
  **Roadmaps**
 
-- [Roadmap for Software Engeneering](#CONTENTS)
+- Roadmap for Software Engeneering
 - Roadmap for Web Dev
 - Roadmap for Java
 - Roadmap for JavaScript
