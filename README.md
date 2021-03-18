@@ -9,6 +9,7 @@
 - If some code is not accurate that will be accepted
 - Changes in Roadmap will be accepted
 - Want to add another source to a project or a concept that will be accepted
+- All the transaltions of this readme will be accepted
 
 ***Note*** -If you are trying to copy things from here and upload on your website or any app please mention this source
 
