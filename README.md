@@ -22,7 +22,7 @@ This project is made with the help of:-
 
  [**Roadmaps**](#ROADMAPS)
 
-- ![Roadmap for Software Engeneering](https://github.com/ShaanJ20/Projects-and-RoadMap/blob/main/README.md#roadmap-for-software-engeneering)
+- [Roadmap for Software Engeneering](https://github.com/ShaanJ20/Projects-and-RoadMap/blob/main/README.md#roadmap-for-software-engeneering)
 - Roadmap for Web Dev
 - Roadmap for Java
 - Roadmap for JavaScript
