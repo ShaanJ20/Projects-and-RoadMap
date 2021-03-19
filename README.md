@@ -40,7 +40,7 @@ This project is made with the help of:-
 - Projects For Html
 - Projects For CSS
 - Projects for JavaScript
-- Projects for NodeJS
+- Projects for NodeJ
 - Projects for MongoDB
 - Projects for Python Flask
 - Projects for React
@@ -64,7 +64,8 @@ And if you are beginner thinking where to start from here you will also be getti
 
 ## ROADMAPS ##
 
--**ROADMAP FOR SOFTWARE ENGENEERING**
+- **__ROADMAP FOR SOFTWARE ENGENEERING__**
+
 
 
 
