@@ -20,9 +20,9 @@ This project is made with the help of:-
 ## CONTENTS ##
 - [Introduction](#Introduction)
 
- **Roadmaps**
+ [**Roadmaps**](#ROADMAPS)
 
-- Roadmap for Software Engeneering
+- [Roadmap for Software Engeneering](#ROADMAP FOR SOFTWARE ENGENEERING)
 - Roadmap for Web Dev
 - Roadmap for Java
 - Roadmap for JavaScript
