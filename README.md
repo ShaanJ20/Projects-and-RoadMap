@@ -22,7 +22,6 @@ This project is made with the help of:-
 
  [**Roadmaps**](#ROADMAPS)
 
-- [Roadmap for Software Engeneering](https://github.com/ShaanJ20/Projects-and-RoadMap/blob/main/README.md#roadmap-for-software-engeneering)
 - Roadmap for Web Dev
 - Roadmap for Java
 - Roadmap for JavaScript
@@ -64,7 +63,7 @@ And if you are beginner thinking where to start from here you will also be getti
 
 ## ROADMAPS ##
 
-### ROADMAP FOR SOFTWARE ENGENEERING ###
+### ROADMAP FOR WEB DEV  ###
 
 
 
