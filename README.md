@@ -64,6 +64,12 @@ And if you are beginner thinking where to start from here you will also be getti
 ## ROADMAPS ##
 
 ### ROADMAP FOR WEB DEV  ###
+[Original Source](https://github.com/kamranahmedse/developer-roadmap)
+
+![road map se](https://user-images.githubusercontent.com/75380879/112335250-15bae700-8ce2-11eb-8d0e-121828a3d57a.png)
+
+### ROADMAP FOR JAVA ###
+
 
 
 
