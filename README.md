@@ -73,6 +73,9 @@ And if you are beginner thinking where to start from here you will also be getti
 
 ![2021 Java Developer RoadMap](https://user-images.githubusercontent.com/75380879/112336938-81518400-8ce3-11eb-937b-bf1a4db95ceb.png)
 
+### ROADMAP FOR JAVASCRIPT ###
+[Original Source](
+
 
 
 
